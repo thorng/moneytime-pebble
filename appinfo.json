@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Timothy Horng",
+    "longName": "MoneyTime",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "MoneyTime",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "1d48f910-86ad-4952-bd7e-4a00951e23a1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
